@@ -13,5 +13,5 @@ subjects:
   # Make user "foo" a subject of this role, thus granting
   # them edit access in the project-memes-dev namespace
   - kind: User
-    name: user1
+    name: foo
     namespace: project-memes-dev
